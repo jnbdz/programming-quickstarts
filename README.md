@@ -1,2 +1,2 @@
 # programming-quickstarts
-☕⌨ Programming | Quickstarts ⌨☕
+🧑‍💻 Programming | Quickstarts 🧑‍💻
